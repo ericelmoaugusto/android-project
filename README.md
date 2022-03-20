@@ -6,3 +6,4 @@ The subject of this static one-page article is a brief history of the Android OS
 - Monochromatic colors (based in greene)
 - Text decoration
 
+See page here: https://ericelmoaugusto.github.io/android-project/
