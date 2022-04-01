@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: 'Android';
-    src: url('fontes/idroid.otf');
+    src: url('font-idroid/idroid.otf');
     font-weight: normal;
 }
 
@@ -133,7 +133,7 @@ main a {
     font-weight: bold;
     background-color: var(--cor1);
     text-decoration: none;
-    padding: 2px 6px;
+    padding: 1px 1px;
 }
 
 main a:hover {
