@@ -11,6 +11,7 @@
     src: url('font-bebas/BebasNeue-Regular.ttf');
     font-weight: normal;
 }
+/* Google Fonts: @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap'); */
 
 :root {
     --cor0: #c5ebd6;
